@@ -10,3 +10,4 @@ $ git clone URL # (see github)
 $ cd ..
 $ catkin_make
 ```
+## https://www.youtube.com/watch?v=x8iedoVgv8k
